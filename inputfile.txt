@@ -1,3 +1,0 @@
-var a1, b: integer; d: real 
-id := id IF A THEN B 
-@`.
