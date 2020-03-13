@@ -1,0 +1,4 @@
+//comentario
+var a, b: integer;
+d: real
+if a+b then if a then a := 
